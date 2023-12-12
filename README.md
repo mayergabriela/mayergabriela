@@ -4,13 +4,13 @@
 
 <p align="center"><img src="wizardGa.png" width=250></p>
 
-<h3 align="center">In the vast realm of the web, I embark on a journey where lines of code transform into captivating experiences. As a sorcerer of the digital world, I weave spells through HTML, CSS, and JavaScript, bringing pixels to life and crafting immersive user interfaces. 
+<h3 align="left">In the vast realm of the web, I embark on a journey where lines of code transform into captivating experiences. As a sorcerer of the digital world, I weave spells through HTML, CSS, and JavaScript, bringing pixels to life and crafting immersive user interfaces. 
 <br>
    
-<h3 align="center">🧙‍♀️ What sets me apart?</h3>
-<p align="center">I don't just code; I create digital symphonies. Every project is a canvas, and my code is the brush that paints seamless interactions and visually stunning designs. From responsive websites to dynamic web applications, I blend creativity with functionality, ensuring that every click is a magical experience.</p> <br>
+<h3 align="left">🧙‍♀️ What sets me apart?</h3>
+<p align="left">I don't just code; I create digital symphonies. Every project is a canvas, and my code is the brush that paints seamless interactions and visually stunning designs. From responsive websites to dynamic web applications, I blend creativity with functionality, ensuring that every click is a magical experience.</p> <br>
  
- <h3 align="center">🔧Some of my toolkit  includes the latest spells in Frontend Development:</h3>
+ <h3 align="left">🔧Some of my toolkit  includes the latest spells in Frontend Development:</h3>
 <ul>
   <li>🔮 HTML & CSS Enchantments: Crafting elegant and responsive layouts.</li>
   <li>🪄 JavaScript Wizardry: Infusing interactivity and dynamic functionalities.</li>
@@ -18,7 +18,7 @@
  </ul>
  <p align="center"><img src="Create_a_Crystal_KeyboardA_transparent_keyboard-modified.png" width=250></p>
  <br>
-<div align="center"> 
+<div align="left"> 
 <h3 align="left"><b> 💼 Why work with me?</b><br></h3>
 Because I'm not just a developer; I'm a digital magician who turns ideas into enchanting realities. Let's collaborate and bring your digital dreams to life. Together, we'll create a digital masterpiece that leaves a lasting spell on every user who interacts with it.
 <br>
